@@ -1,1 +1,1 @@
-# SimpleNote
+# SimpleNotes
